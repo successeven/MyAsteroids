@@ -1,0 +1,19 @@
+{
+    "name": "Sctripts.Logic",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2c689bf0ab7713948bd02c83955bc10f",
+        "GUID:bff65cf10e0e6b741aac51aab8e4b062",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
